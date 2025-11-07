@@ -1,5 +1,5 @@
 ###### Halo Kitty Adventures
-[]()
+[](https://github.com/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/resources/Project.png)
 ### *A Learning Repository for Data Analytics Integration & Modernization*
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
