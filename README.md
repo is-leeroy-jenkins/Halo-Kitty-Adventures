@@ -1,11 +1,21 @@
-###### Halo Kitty Adventures
-[](https://github.com/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/resources/Project.png)
-### *A Learning Repository for Data Analytics Integration & Modernization*
+###### Halo Kitty Adventures<img src="https://github.com/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/resources/Project.png" style="width:950px;height:275px">
+
+<div align="left">
+  <p>
+    <a href="https://drive.google.com/file/d/1EQ7TmQSFqRYFNNk5QdZc_i--Su7D9RyY/view?usp=sharing">Excel Formulas</a> •  <a href="https://drive.google.com/file/d/1qf4YA4k1k6D_bPwamLXpy5RfZUl8iHDZ/view?usp=sharing">SQL (MS Access)</a> •<a href="https://drive.google.com/file/d/1joJQnlbQ6ynJvL56M4IbOVe-rErIkPtn/view?usp=sharing"> SQL (SQLite) </a> • <a href="https://drive.google.com/file/d/1e_F_DE7jLInEen5PtoJFu98oRjQ2r8wt/view?usp=sharing"> VBA </a>  • <a href="https://drive.google.com/file/d/1O8uu_YfSk_d5qxM1u6J-IC9eioAeGJeN/view?usp=sharing"> Python </a>
+  </p>
+  <p>
+    An An educational repository supporting the Federal Data Analytics Integration & Modernization initiatives. It consolidates four core learning domains — Excel, SQL, VBA, and Python — into a unified framework that builds technical fluency from tactical spreadsheet analytics to enterprise-scale data science
+  </p>
+</div>
+
+
+## Data Analytics Integration & Modernization
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-![VBA](https://img.shields.io/badge/VBA-Excel%20%26%20Access-green.svg)
-![SQL](https://img.shields.io/badge/SQL-Access%20%26%20SQLite-orange.svg)
-![Excel](https://img.shields.io/badge/Excel-Formulas-lightgreen.svg)
+![VBA](https://img.shields.io/badge/VBA-Excel%20%26%20Access-blue.svg)
+![SQL](https://img.shields.io/badge/SQL-Access%20%26%20SQLite-blue.svg)
+![Excel](https://img.shields.io/badge/Excel-Formulas-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Army](https://img.shields.io/badge/U.S.%20Army-Data%20Modernization-olive.svg)
 
@@ -60,7 +70,11 @@ Halo-Kitty-Adventures/
 
 ## 🧮 Excel Formulas — *“The Foundation”*
 
+<a href="https://drive.google.com/file/d/1EQ7TmQSFqRYFNNk5QdZc_i--Su7D9RyY/view?usp=sharing" target="_parent">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 > Every data workflow begins in Excel — transforming raw numbers into insight.
+
 
 **Core Topics**
 
@@ -80,6 +94,9 @@ Halo-Kitty-Adventures/
 ---
 
 ## 🧾 SQL — *“The Language of Data”*
+<a href="https://drive.google.com/file/d/1qf4YA4k1k6D_bPwamLXpy5RfZUl8iHDZ/view?usp=sharing" target="_parent">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 
 > Build and query relational datasets to power analytics across tactical and enterprise systems.
 
@@ -99,6 +116,9 @@ Halo-Kitty-Adventures/
 ---
 
 ## ⚙️ VBA — *“Classic Automation”*
+<a href="https://drive.google.com/file/d/1e_F_DE7jLInEen5PtoJFu98oRjQ2r8wt/view?usp=drive_link" target="_parent">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 
 > Learn the Visual Basic for Applications (VBA) environment to automate tasks across Microsoft Office.
 
@@ -119,6 +139,9 @@ Halo-Kitty-Adventures/
 ---
 
 ## 🐍 Python — *“Advanced Analytics”*
+<a href="https://drive.google.com/file/d/1O8uu_YfSk_d5qxM1u6J-IC9eioAeGJeN/view?usp=sharing" target="_parent">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 
 > Transition into enterprise-grade analytics and machine learning using modern open-source tooling.
 
