@@ -61,7 +61,7 @@ Halo-Kitty-Adventures/
 
 ## 🧮 Excel Formulas — *“The Foundation”*
 
-<a href="https://drive.google.com/file/d/1EQ7TmQSFqRYFNNk5QdZc_i--Su7D9RyY/view?usp=sharing" target="_parent">
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/excel/notebooks/formulas.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 > Every data workflow begins in Excel — transforming raw numbers into insight.
@@ -85,7 +85,7 @@ Halo-Kitty-Adventures/
 ---
 
 ## 🧾 SQL — *“The Language of Data”*
-<a href="https://drive.google.com/file/d/1qf4YA4k1k6D_bPwamLXpy5RfZUl8iHDZ/view?usp=sharing" target="_parent">
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/sql/notebooks/access.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
@@ -107,7 +107,7 @@ Halo-Kitty-Adventures/
 ---
 
 ## ⚙️ VBA — *“Classic Automation”*
-<a href="https://drive.google.com/file/d/1e_F_DE7jLInEen5PtoJFu98oRjQ2r8wt/view?usp=drive_link" target="_parent">
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/python/notebooks/vba.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
@@ -130,7 +130,7 @@ Halo-Kitty-Adventures/
 ---
 
 ## 🐍 Python — *“Advanced Analytics”*
-<a href="https://drive.google.com/file/d/1O8uu_YfSk_d5qxM1u6J-IC9eioAeGJeN/view?usp=sharing" target="_parent">
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/python/notebooks/python.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
