@@ -2,10 +2,11 @@
 
 <div align="left">
   <p>
-    <a href="https://drive.google.com/file/d/1EQ7TmQSFqRYFNNk5QdZc_i--Su7D9RyY/view?usp=sharing">Excel Formulas</a> •  <a href="https://drive.google.com/file/d/1qf4YA4k1k6D_bPwamLXpy5RfZUl8iHDZ/view?usp=sharing">SQL (MS Access)</a> •<a href="https://drive.google.com/file/d/1joJQnlbQ6ynJvL56M4IbOVe-rErIkPtn/view?usp=sharing"> SQL (SQLite) </a> • <a href="https://drive.google.com/file/d/1e_F_DE7jLInEen5PtoJFu98oRjQ2r8wt/view?usp=sharing"> VBA </a>  • <a href="https://drive.google.com/file/d/1O8uu_YfSk_d5qxM1u6J-IC9eioAeGJeN/view?usp=sharing"> Python </a>
-  </p>
-  <p>
     An An educational repository supporting the Federal Data Analytics Integration & Modernization initiatives. It consolidates four core learning domains — Excel, SQL, VBA, and Python — into a unified framework that builds technical fluency from tactical spreadsheet analytics to enterprise-scale data science
+  </p>
+    <hr>
+  <p>
+    <a href="https://drive.google.com/file/d/1EQ7TmQSFqRYFNNk5QdZc_i--Su7D9RyY/view?usp=sharing">Excel Formulas</a> •  <a href="https://drive.google.com/file/d/1qf4YA4k1k6D_bPwamLXpy5RfZUl8iHDZ/view?usp=sharing">SQL (MS Access)</a> •<a href="https://drive.google.com/file/d/1joJQnlbQ6ynJvL56M4IbOVe-rErIkPtn/view?usp=sharing"> SQL (SQLite) </a> • <a href="https://drive.google.com/file/d/1e_F_DE7jLInEen5PtoJFu98oRjQ2r8wt/view?usp=sharing"> VBA </a>  • <a href="https://drive.google.com/file/d/1O8uu_YfSk_d5qxM1u6J-IC9eioAeGJeN/view?usp=sharing"> Python </a>
   </p>
 </div>
 
