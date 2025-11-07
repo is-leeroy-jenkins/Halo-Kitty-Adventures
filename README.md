@@ -5,7 +5,6 @@
 <div>
 <h2> Data Analytics Integration & Modernization </h2>
 </div>
-<hr align="left">
   <p>
     An educational repository supporting the Federal Data Analytics Integration & Modernization initiatives. It consolidates four core learning domains — Excel, SQL, VBA, and Python — into a unified framework that builds technical fluency from tactical spreadsheet analytics to enterprise-scale data science
   </p>
