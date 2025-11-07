@@ -1,6 +1,6 @@
 # 🪖 Halo Kitty Adventures
 
-### *A Learning Repository for U.S. Army Data Analytics Integration & Modernization*
+### *A Learning Repository for Data Analytics Integration & Modernization*
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![VBA](https://img.shields.io/badge/VBA-Excel%20%26%20Access-green.svg)
@@ -13,7 +13,7 @@
 
 ## 📘 Overview
 
-**Halo Kitty Adventures** is a structured educational repository supporting the **U.S. Army’s Data Analytics Integration & Modernization** initiatives.
+**Halo Kitty Adventures** is a structured educational repository supporting the **Federal Data Analytics Integration & Modernization** initiatives.
 It consolidates four core learning domains — **Excel Formulas**, **SQL**, **VBA**, and **Python** — into a unified framework that builds technical fluency from tactical spreadsheet analytics to enterprise-scale data science.
 
 Each tutorial is written for analysts modernizing workflows under the **Army Data Plan (ADP)** and **DoD AI/ML modernization** strategy.
@@ -26,19 +26,19 @@ Lessons progress linearly, introducing tools and logic at each level of the Army
 ```
 Halo-Kitty-Adventures/
 │
-├── 📂 Excel_Formulas_Tutorial/
+├── 📂 Excel/
 │   ├── Excel_Formula_Cheat_Sheet.md
 │   └── Advanced_Analytics_Formulas.md
 │
-├── 📂 SQL_Tutorial/
+├── 📂 SQL/
 │   ├── Access_SQL_Tutorial.md
 │   └── SQLite_Tutorial.md
 │
-├── 📂 VBA_Tutorial/
+├── 📂 VBA/
 │   ├── Excel_VBA_Tutorial.md
 │   └── Access_VBA_Tutorial.md
 │
-├── 📂 Python_Tutorial/
+├── 📂 Python/
 │   ├── Python_Programming_Tutorial.md
 │   └── Python_VirtualEnv_Guide.md
 │
@@ -60,7 +60,7 @@ Halo-Kitty-Adventures/
 
 ## 🧮 Excel Formulas — *“The Foundation”*
 
-> The heart of every data workflow begins in Excel — transforming raw numbers into insight.
+> Every data workflow begins in Excel — transforming raw numbers into insight.
 
 **Core Topics**
 
@@ -73,7 +73,7 @@ Halo-Kitty-Adventures/
 * Financial/statistical formulas (`PMT`, `NPV`, `STDEV`, `FORECAST.LINEAR`)
 * Named ranges, structured tables, and data validation
 
-**Army Example:**
+**Example:**
 
 > Automate daily readiness metrics using dynamic array formulas that update automatically as new personnel data arrives.
 
@@ -98,7 +98,7 @@ Halo-Kitty-Adventures/
 
 ---
 
-## ⚙️ VBA — *“Automation Inside the Perimeter”*
+## ⚙️ VBA — *“Classic Automation”*
 
 > Learn the Visual Basic for Applications (VBA) environment to automate tasks across Microsoft Office.
 
@@ -112,13 +112,13 @@ Halo-Kitty-Adventures/
 * Excel ↔ Word ↔ Outlook integration
 * UserForms and Ribbon customization
 
-**Army Example:**
+**Example:**
 
 > Automatically generate Excel readiness dashboards from Access data, email them via Outlook, and archive backups with one button click.
 
 ---
 
-## 🐍 Python — *“Analytics Beyond Excel”*
+## 🐍 Python — *“Advanced Analytics”*
 
 > Transition into enterprise-grade analytics and machine learning using modern open-source tooling.
 
@@ -132,7 +132,7 @@ Halo-Kitty-Adventures/
 * Natural Language Processing & RAG frameworks
 * API and automation scripting
 
-**Army Example:**
+**Example:**
 
 > Use Python ETL scripts to consolidate O&M execution data, generate predictive models, and deploy dashboards supporting OUSD(C) reporting.
 
@@ -195,17 +195,23 @@ Learning modules draw from authoritative texts and field practice:
 * **SQLite / DB Browser for SQLite**
 * Optional: Visual Studio Code, GitHub Desktop, LM Studio (for RAG integration)
 
+
 ---
 
 ## 🪶 Author
 
-**Terry D. Eppler**
+**[Terry D. Eppler](https://gravatar.com/terryepplerphd)**
 • Data Scientist • Developer • Data Modernization Architect
-📧 *[terryeppler@gmail.com](mailto:terryeppler@gmail.com)*  |  *[eppler.terry@epa.gov](mailto:eppler.terry@epa.gov)*
+📧 *[terryeppler@gmail.com](mailto:terryeppler@gmail.com)*  |
 GitHub: [@TerryEppler](https://github.com/TerryEppler)
+
+> **Disclaimer**: This is for analytical exploration, research, and education purposes.  
+> This is **not** an official government product; validate against authoritative sources before use.
 
 ---
 
-## 📜 License
 
-**MIT License** — freely available for educational and modernization use within the
+## 📝 License
+
+Halo Kitty Adventures is published under the [MIT General Public License v3](https://github.com/is-leeroy-jenkins/Sake/blob/master/LICENSE.txt).
+
