@@ -88,11 +88,13 @@ Halo-Kitty-Adventures/
 
 ##  🧮 Excel Formulas — *"The Foundation"*
 
-- <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/excel/notebooks/formulas.ipynb" target="_parent">
+- via Google Colab:
+
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/excel/notebooks/formulas.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 > Every data workflow begins in Excel — transforming raw numbers into insight.
-
+> 
 **Core Topics**
 
 * Mathematical and logical operators
@@ -110,6 +112,9 @@ Halo-Kitty-Adventures/
 
 
 ##  🧾 SQL (Access) — *Desktop Relational Data Management*
+
+- via Google Colab:
+
 
 <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/sql/notebooks/sql-access.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
@@ -133,6 +138,9 @@ Halo-Kitty-Adventures/
 
 ##  🧾 SQL (SQLite) — *Portable, Modern Data Engine*
 
+- via Google Colab:
+
+
 <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/sql/notebooks/sql-sqlite.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
@@ -154,6 +162,9 @@ Halo-Kitty-Adventures/
 
 
 ##  ⚙️ VBA (Excel) — *Excel Macro Automation*
+
+- via Google Colab:
+
 
 <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/vba/notebook/vba-tutorial.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
@@ -178,6 +189,9 @@ Halo-Kitty-Adventures/
 
 ##  ⚙️ VBA (Access) — *Database Automation*
 
+- via Google Colab:
+
+
 <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/vba/notebook/vba-access.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
@@ -201,6 +215,8 @@ Halo-Kitty-Adventures/
 
 ##  🐍 Python — *"Advanced Analytics"*
 
+- via Google Colab:
+
 <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/python/notebooks/python.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
@@ -223,6 +239,8 @@ Halo-Kitty-Adventures/
 
 
 ## 🌐 HTML5 — *Web Foundations for Analytics*
+
+- via Google Colab:
 
 <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/html/html-tutorial.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
@@ -250,6 +268,8 @@ Halo-Kitty-Adventures/
 
 ## 🎨 CSS3 — *Designing with Purpose*
 
+- via Google Colab:
+
 <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/css/css-tutorial.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
@@ -271,6 +291,8 @@ Halo-Kitty-Adventures/
 
 
 ## 📊 Power BI — *Modern Visual Analytics*
+
+- via Google Colab:
 
 <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/python/notebooks/pbi.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
@@ -300,6 +322,8 @@ Halo-Kitty-Adventures/
 
 
 ## 📐 DAX — *Advanced Calculation Logic*
+
+- via Google Colab:
 
 <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/excel/notebooks/dax.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
