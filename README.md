@@ -14,20 +14,10 @@
   </p>
 </div>
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-![VBA](https://img.shields.io/badge/VBA-Excel%20%26%20Access-green.svg)
-![SQL](https://img.shields.io/badge/SQL-Access%20%26%20SQLite-orange.svg)
-![Excel](https://img.shields.io/badge/Excel-Formulas-lightgreen.svg)
-![HTML5](https://img.shields.io/badge/HTML5-Web%20Structure-red.svg)
-![CSS3](https://img.shields.io/badge/CSS3-Web%20Design-blue.svg)
-![PowerBI](https://img.shields.io/badge/Power%20BI-Analytics%20%26%20DAX-gold.svg)
-![DAX](https://img.shields.io/badge/DAX-Data%20Modeling-purple.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+___
 
 
-
-
-## 📑 Table of Contents
+### 📑 Table of Contents
 - [Excel Formulas](#-excel-formulas--the-foundation)
 - [SQL](#-sql)
   - [SQL (Access)](#-sql-access--desktop-relational-data-management)
@@ -43,14 +33,14 @@
 
 
 
-## 📘 Overview
+### 📘 Overview
 
 * Each tutorial is written for analysts modernizing workflows.
 * Lessons progress linearly, introducing tools and logic at each level of the analytic maturity model.
 
 
 
-## 🧩 Repository Structure
+### 🧩 Repository Structure
 
 ```
 Halo-Kitty-Adventures/
@@ -84,7 +74,7 @@ Halo-Kitty-Adventures/
 
 
 
-## 🎯 Learning Objectives
+###  🎯 Learning Objectives
 
 |              Domain | Goal                                                               | Outcome                                                |
 | ------------------: | ------------------------------------------------------------------ | ------------------------------------------------------ |
@@ -99,7 +89,7 @@ Halo-Kitty-Adventures/
 
 
 
-## 🧮 Excel Formulas — *"The Foundation"*
+###  🧮 Excel Formulas — *"The Foundation"*
 
 <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/excel/notebooks/formulas.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
@@ -122,7 +112,7 @@ Halo-Kitty-Adventures/
 > Automate daily readiness metrics using dynamic array formulas that update automatically as new data arrives.
 
 
-## 🧾 SQL (Access) — *Desktop Relational Data Management*
+###  🧾 SQL (Access) — *Desktop Relational Data Management*
 
 <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/sql/notebooks/sql-access.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
@@ -144,7 +134,7 @@ Halo-Kitty-Adventures/
 
 
 
-## 🧾 SQL (SQLite) — *Portable, Modern Data Engine*
+###  🧾 SQL (SQLite) — *Portable, Modern Data Engine*
 
 <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/sql/notebooks/sql-sqlite.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
@@ -166,7 +156,7 @@ Halo-Kitty-Adventures/
 
 
 
-## ⚙️ VBA (Excel) — *Excel Macro Automation*
+###  ⚙️ VBA (Excel) — *Excel Macro Automation*
 
 <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/vba/notebook/vba-tutorial.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
@@ -189,7 +179,7 @@ Halo-Kitty-Adventures/
 
 
 
-## ⚙️ VBA (Access) — *Database Automation*
+###  ⚙️ VBA (Access) — *Database Automation*
 
 <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/vba/notebook/vba-access.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
@@ -212,7 +202,7 @@ Halo-Kitty-Adventures/
 
 
 
-## 🐍 Python — *"Advanced Analytics"*
+###  🐍 Python — *"Advanced Analytics"*
 
 <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/python/notebooks/python.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
@@ -235,14 +225,14 @@ Halo-Kitty-Adventures/
 
 
 
-# 🌐 HTML5 — *Web Foundations for Analytics*
+## 🌐 HTML5 — *Web Foundations for Analytics*
 
 <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/html/html-tutorial.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 > Teach structure, semantics, and accessibility for data dashboards and web analytics systems.
 
-## Core Topics
+###  Core Topics
 
 * HTML document structure and metadata
 * Phrasing, flow, and grouping elements
@@ -255,20 +245,20 @@ Halo-Kitty-Adventures/
 * `HTML5_Element_Guide.ipynb` — Organized by element group (metadata, form, text, media)
 * `HTML5_Examples.ipynb` — Practical snippets and analytics-themed dashboards
 
-## Example
+###  Example
 
 > Build a responsive dashboard prototype with HTML5 elements to display live metrics and KPIs.
 
 
 
-# 🎨 CSS3 — *Designing with Purpose*
+## 🎨 CSS3 — *Designing with Purpose*
 
 <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/css/css-tutorial.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 > Master layout and design for analytics dashboards and knowledge portals.
 
-## Core Topics
+###  Core Topics
 
 * Selectors and pseudo-classes
 * The box model and positioning
@@ -283,14 +273,14 @@ Halo-Kitty-Adventures/
 
 
 
-# 📊 Power BI — *Modern Visual Analytics*
+## 📊 Power BI — *Modern Visual Analytics*
 
 <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/python/notebooks/pbi.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 > Learn to build interactive dashboards, integrate multi‑source datasets, and publish secure analytics.
 
-## Core Topics
+###  Core Topics
 
 * Power BI Desktop interface and workflow
 * Connecting to Excel, CSV, Access, SQL Server, and web APIs
@@ -306,7 +296,7 @@ Halo-Kitty-Adventures/
 * `PowerBI_DAX_Workshop.ipynb` — DAX patterns and analytics‑focused formulas
 * `PowerBI_Dashboard_Examples.ipynb` — Example execution, readiness, and personnel dashboards
 
-## Example
+###  Example
 
 > Create an end‑to‑end execution dashboard that connects Access/SQL/Python outputs, applies DAX time‑intelligence, and publishes to a secure workspace for decision makers.
 
@@ -341,7 +331,7 @@ Halo-Kitty-Adventures/
 
 
 
-## 🧠 Integrated Learning Framework
+###  🧠 Integrated Learning Framework
 
 | Layer             | Excel    | SQL (Access)  | SQL (SQLite)  | VBA (Excel)      | VBA (Access)       | Python              | HTML5           | CSS3            |
 | :---------------- | :------- | :------------ | :------------ | :--------------- | :----------------- | :------------------ | :-------------- | :-------------- |
@@ -353,7 +343,7 @@ Halo-Kitty-Adventures/
 
 
 
-## 📈 Combined Learning Progression Diagram
+###  📈 Combined Learning Progression Diagram
 
 ```
 ┌──────────────────────────┐
@@ -408,7 +398,7 @@ Halo-Kitty-Adventures/
 
 
 
-## 🪖 Alignment with Army Data Modernization
+###  🪖 Alignment with Army Data Modernization
 
 | Initiative                    | Relevance                                                                         |
 | ----------------------------- | --------------------------------------------------------------------------------- |
@@ -419,7 +409,7 @@ Halo-Kitty-Adventures/
 
 
 
-## 🧾 Reference Materials
+### 🧾 Reference Materials
 
 Learning modules draw from authoritative texts and field practice:
 
@@ -430,7 +420,7 @@ Learning modules draw from authoritative texts and field practice:
 
 
 
-## 🧰 Prerequisites
+###  🧰 Prerequisites
 
 * **Microsoft 365** (Excel & Access)
 * **Python 3.10+**
@@ -439,7 +429,7 @@ Learning modules draw from authoritative texts and field practice:
 
 
 
-## 🪶 Author
+###  🪶 Author
 
 **[Terry D. Eppler](https://gravatar.com/terryepplerphd)**
 • Data Scientist • Developer • Data Modernization Architect
@@ -450,6 +440,6 @@ Learning modules draw from authoritative texts and field practice:
 
 
 
-## 📝 License
+###  📝 License
 
 Halo-Kitty Adventures is published under the [MIT General Public License v3](https://github.com/is-leeroy-jenkins/Sake/blob/master/LICENSE.txt).
