@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+Markdown
+PyYAML
+Flask
+numpy
+pandas
+matplotlib
+seaborn
+psutil
+scikit-learn
+statsmodels
