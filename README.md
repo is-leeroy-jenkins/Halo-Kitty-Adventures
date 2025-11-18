@@ -256,7 +256,7 @@ Halo-Kitty-Adventures/
 * Multimedia (audio/video) embedding
 * Semantic layout (`header`, `nav`, `article`, `section`, `footer`)
 
-## Notebook Examples
+### Notebooks
 
 * `HTML5_Element_Guide.ipynb` — Organized by element group (metadata, form, text, media)
 * `HTML5_Examples.ipynb` — Practical snippets and analytics-themed dashboards
@@ -282,7 +282,7 @@ Halo-Kitty-Adventures/
 * Typography and color schemes
 * Animations, transitions, media queries, and dark mode styling
 
-## Notebook Examples
+### Notebooks
 
 * `CSS3_Elements_and_Attributes.ipynb` — Attributes table, values, and examples
 * `CSS3_Examples_and_Layouts.ipynb` — Real-world styling exercises
@@ -306,7 +306,7 @@ Halo-Kitty-Adventures/
 * Power Query (M language) for data cleaning and transformation
 * Publishing to Power BI Service and securing workspaces
 
-## Notebook Examples
+### Notebooks
 
 * `PowerBI_Data_Modeling.ipynb` — Demonstrates shaping data for clean relationships
 * `PowerBI_DAX_Workshop.ipynb` — DAX patterns and analytics‑focused formulas
@@ -335,7 +335,7 @@ Halo-Kitty-Adventures/
 * Measures vs. calculated columns
 * Variables (`VAR`) and performance optimization
 
-### Notebook Examples
+### Notebooks
 
 * `DAX_Fundamentals.ipynb` — Core concepts, context evaluation, and basic measures
 * `DAX_Time_Intelligence.ipynb` — Fiscal year modeling, rolling periods, readiness metrics
@@ -454,7 +454,7 @@ Learning modules draw from authoritative texts and field practice:
 > **Disclaimer**: This is for analytical exploration, research, and education purposes.
 > This is **not** an official government product; validate against authoritative sources before use.
 
----
+
 
 ## 📝 License
 
