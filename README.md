@@ -236,31 +236,72 @@ Halo-Kitty-Adventures/
 > Create an end‑to‑end execution dashboard that connects Access/SQL/Python outputs, applies DAX time‑intelligence, and publishes to a secure Army workspace for operational leaders.
 
 ## 🧠 Integrated Learning Framework
-
-| Layer           | Excel                | SQL                | VBA               | Python                  |
-| :-------------- | :------------------- | :----------------- | :---------------- | :---------------------- |
-| **Data Access** | Tables & Ranges      | Relational Queries | DAO / ADO         | `sqlite3`, `pandas`     |
-| **Automation**  | Dynamic Arrays       | N/A                | Macros            | Scripts / Cron Jobs     |
-| **Analytics**   | PivotTables & Charts | Aggregations       | Chart Automation  | `seaborn`, `plotly`     |
-| **Modeling**    | Forecast & Solver    | Query Modeling     | Regression Macros | `scikit-learn`, `torch` |
-| **Deployment**  | Shared Workbooks     | Access Forms       | Add-Ins           | Flask / FastAPI APIs    |
-
+| Layer             | Excel       | SQL               | VBA          | Python              | HTML5           | CSS3            |
+| :---------------- | :---------- | :---------------- | :----------- | :------------------ | :-------------- | :-------------- |
+| **Data Access**   | Sheets      | Queries           | DAO/ADO      | `pandas`, `sqlite3` | Forms & Inputs  | Styled Tables   |
+| **Automation**    | Formulas    | Stored Procedures | Macros       | Scripts             | Web Scripts     | Animations      |
+| **Analytics**     | PivotTables | Aggregates        | Reports      | AI Models           | Data Pages      | Visual Themes   |
+| **Visualization** | Charts      | Views             | Excel Graphs | Plotly, Seaborn     | Canvas, SVG     | Layout & Colors |
+| **Deployment**    | Workbooks   | Databases         | Add-ins      | Flask APIs          | HTML Dashboards | CSS UI Layer    |
 
 
-## 🧬 Recommended Learning Sequence
+
+
+
+# 📈 Combined Learning Progression Diagram
 
 ```
-START → Excel Formulas
-        ↓
-        SQL Queries
-        ↓
-        VBA Automation
-        ↓
-        Python Analytics
-        ↓
-        Cross-Domain Capstone: Integrating All Four Layers
+┌──────────────────────────┐
+│        🧮 Excel          │
+│  Foundations of Army     │
+│  analytics: formulas,    │
+│  tables, dynamic arrays  │
+└──────────────┬───────────┘
+               │
+               ▼
+┌──────────────────────────┐
+│        🐘 SQL            │
+│  Structured data access: │
+│  joins, normalization,   │
+│  Access & SQLite models  │
+└──────────────┬───────────┘
+               │
+               ▼
+┌──────────────────────────┐
+│        ⚙️ VBA            │
+│  Automation inside the   │
+│  perimeter: macros, DAO  │
+│  ADO, Office workflows   │
+└──────────────┬───────────┘
+               │
+               ▼
+┌──────────────────────────┐
+│       🐍 Python          │
+│  Modern analytics stack: │
+│  pandas, ML, ETL, APIs   │
+└──────────────┬───────────┘
+               │
+               ▼
+┌──────────────────────────┐
+│       🌐 HTML5           │
+│  Web structure for Army  │
+│  dashboards and portals  │
+└──────────────┬───────────┘
+               │
+               ▼
+┌──────────────────────────┐
+│       🎨 CSS3            │
+│  Responsive layouts, UI  │
+│  theming, DoD-style GUI │
+└──────────────┬───────────┘
+               │
+               ▼
+┌──────────────────────────┐
+│       📊 Power BI        │
+│  Interactive dashboards, │
+│  DAX, secure publishing  │
+└──────────────────────────┘
 ```
-
 
 
 ## 🪖 Alignment with Army Data Modernization
