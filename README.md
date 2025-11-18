@@ -207,10 +207,33 @@ Halo-Kitty-Adventures/
 * `CSS3_Elements_and_Attributes.ipynb` — Attributes table, values, and examples
 * `CSS3_Examples_and_Layouts.ipynb` — Real-world styling exercises
 
-## Example
 
-> Design a dark-mode WPF-style data portal in CSS3 to display mission-critical analytics with responsive mobile compatibility.
+# 📊 Power BI — *Modern Visual Analytics for the Army*
 
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/python/notebooks/pbi.ipynb" target="_parent">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+> Learn to build interactive dashboards, integrate multi‑source datasets, and publish secure analytics for commanders and staff.
+
+## Core Topics
+
+* Power BI Desktop interface and workflow
+* Connecting to Excel, CSV, Access, SQL Server, and web APIs
+* Data modeling with relationships and cardinality
+* DAX fundamentals (`CALCULATE`, `FILTER`, `SUMX`, `VAR`, time‑intelligence functions)
+* Building interactive visuals, drilldowns, and hierarchies
+* Power Query (M language) for data cleaning and transformation
+* Publishing to Power BI Service and securing workspaces
+
+## Notebook Examples
+
+* `PowerBI_Data_Modeling.ipynb` — Demonstrates shaping data for clean relationships
+* `PowerBI_DAX_Workshop.ipynb` — DAX patterns and readiness‑focused formulas
+* `PowerBI_Dashboard_Examples.ipynb` — Example Army execution, readiness, and personnel dashboards
+
+## Army Example
+
+> Create an end‑to‑end execution dashboard that connects Access/SQL/Python outputs, applies DAX time‑intelligence, and publishes to a secure Army workspace for operational leaders.
 
 ## 🧠 Integrated Learning Framework
 
