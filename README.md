@@ -26,26 +26,30 @@
 
 
 
-## 📑 Table of Contents
 
-* [Overview](#-overview)
-* [Repository Structure](#-repository-structure)
-* [Learning Objectives](#-learning-objectives)
-* [Excel Formulas — "The Foundation"](#-excel-formulas--the-foundation)
-* [SQL — "The Language of Data"](#-sql--the-language-of-data)
-* [VBA — "Classic Automation"](#-vba--classic-automation)
-* [Python — "Advanced Analytics"](#-python--advanced-analytics)
-* [HTML5 — Web Foundations for Analytics](#-html5--web-foundations-for-analytics)
-* [CSS3 — Designing with Purpose](#-css3--designing-with-purpose)
-* [Power BI — Modern Visual Analytics](#-power-bi--modern-visual-analytics)
-* [DAX — Advanced Calculation Logic](#-dax--advanced-calculation-logic)
-* [Integrated Learning Framework](#-integrated-learning-framework)
-* [Combined Learning Progression Diagram](#-combined-learning-progression-diagram)
-* [Alignment with Army Data Modernization](#-alignment-with-army-data-modernization)
-* [Reference Materials](#-reference-materials)
-* [Prerequisites](#-prerequisites)
-* [Author](#-author)
-* [License](#-license)
+## 📑 Table of Contents
+- [Overview](#-overview)
+- [Repository Structure](#-repository-structure)
+- [Learning Objectives](#-learning-objectives)
+- [Excel Formulas](#-excel-formulas--the-foundation)
+- [SQL](#-sql)
+  - [SQL (Access)](#-sql-access--desktop-relational-data-management)
+  - [SQL (SQLite)](#-sql-sqlite--portable-modern-data-engine)
+- [VBA](#-vba)
+  - [VBA (Excel)](#-vba-excel--excel-macro-automation)
+  - [VBA (Access)](#-vba-access--database-automation)
+- [Python](#-python--advanced-analytics)
+- [HTML5](#-html5--web-foundations-for-analytics)
+- [CSS3](#-css3--designing-with-purpose)
+- [Power BI](#-power-bi--modern-visual-analytics)
+- [DAX](#-dax--advanced-calculation-logic)
+- [Integrated Learning Framework](#-integrated-learning-framework)
+- [Combined Learning Progression Diagram](#-combined-learning-progression-diagram)
+- [Reference Materials](#-reference-materials)
+- [Prerequisites](#-prerequisites)
+- [Author](#-author)
+- [License](#-license)
+
 
 
 
