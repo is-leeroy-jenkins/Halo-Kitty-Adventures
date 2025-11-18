@@ -88,13 +88,13 @@ Halo-Kitty-Adventures/
 
 ##  🧮 Excel Formulas — *"The Foundation"*
 
-- via Google Colab:
+- Every data workflow begins in Excel — transforming raw numbers into insight.
+- Google Colab linked below
 
 <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/excel/notebooks/formulas.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-> Every data workflow begins in Excel — transforming raw numbers into insight.
-> 
+
 **Core Topics**
 
 * Mathematical and logical operators
@@ -108,12 +108,13 @@ Halo-Kitty-Adventures/
 
 **Example:**
 
-> Automate daily readiness metrics using dynamic array formulas that update automatically as new data arrives.
 
 
 ##  🧾 SQL (Access) — *Desktop Relational Data Management*
 
-- via Google Colab:
+- Automate daily readiness metrics using dynamic array formulas that update automatically as new data arrives.
+- Google Colab linked below
+
 
 
 <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/sql/notebooks/sql-access.ipynb" target="_parent">
@@ -138,13 +139,14 @@ Halo-Kitty-Adventures/
 
 ##  🧾 SQL (SQLite) — *Portable, Modern Data Engine*
 
-- via Google Colab:
+- Use SQLite to store, manage, and query datasets in a single-file, portable, SQL-compliant engine for analytics pipelines and app development.
+- Google Colab linked below
 
 
 <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/sql/notebooks/sql-sqlite.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-> Use SQLite to store, manage, and query datasets in a single-file, portable, SQL-compliant engine for analytics pipelines and app development.
+
 
 **Core Topics**
 
@@ -163,13 +165,13 @@ Halo-Kitty-Adventures/
 
 ##  ⚙️ VBA (Excel) — *Excel Macro Automation*
 
-- via Google Colab:
+- Automate repetitive tasks, reporting, and analysis in Microsoft Excel using VBA.
+- Google Colab linked below
 
 
 <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/vba/notebook/vba-tutorial.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-> Automate repetitive tasks, reporting, and analysis in Microsoft Excel using VBA.
 
 **Core Topics**
 
@@ -189,13 +191,13 @@ Halo-Kitty-Adventures/
 
 ##  ⚙️ VBA (Access) — *Database Automation*
 
-- via Google Colab:
+- Use VBA in Microsoft Access to automate database operations, form management, and advanced data integration.
+- Google Colab linked below
 
 
 <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/vba/notebook/vba-access.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-> Use VBA in Microsoft Access to automate database operations, form management, and advanced data integration.
 
 **Core Topics**
 
@@ -215,12 +217,13 @@ Halo-Kitty-Adventures/
 
 ##  🐍 Python — *"Advanced Analytics"*
 
-- via Google Colab:
+- Transition into enterprise-grade analytics and machine learning using modern open-source tooling.
+- Google Colab linked below
 
 <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/python/notebooks/python.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-> Transition into enterprise-grade analytics and machine learning using modern open-source tooling.
+
 
 **Core Topics**
 
@@ -240,12 +243,12 @@ Halo-Kitty-Adventures/
 
 ## 🌐 HTML5 — *Web Foundations for Analytics*
 
-- via Google Colab:
+- Teach structure, semantics, and accessibility for data dashboards and web analytics systems.
+- Google Colab linked below
 
 <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/html/html-tutorial.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-> Teach structure, semantics, and accessibility for data dashboards and web analytics systems.
 
 ###  Core Topics
 
@@ -268,12 +271,13 @@ Halo-Kitty-Adventures/
 
 ## 🎨 CSS3 — *Designing with Purpose*
 
-- via Google Colab:
+- Master layout and design for analytics dashboards and knowledge portals.
+- Google Colab linked below
 
 <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/css/css-tutorial.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-> Master layout and design for analytics dashboards and knowledge portals.
+
 
 ###  Core Topics
 
@@ -292,12 +296,13 @@ Halo-Kitty-Adventures/
 
 ## 📊 Power BI — *Modern Visual Analytics*
 
-- via Google Colab:
+- Learn to build interactive dashboards, integrate multi‑source datasets, and publish secure analytics.
+- Google Colab linked below
 
 <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/python/notebooks/pbi.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-> Learn to build interactive dashboards, integrate multi‑source datasets, and publish secure analytics.
+
 
 ###  Core Topics
 
