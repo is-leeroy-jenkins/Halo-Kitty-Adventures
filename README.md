@@ -3,14 +3,14 @@
 ![](https://github.com/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/resources/images/Project.png)
 
 <div>
+  <p>
+    •  <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/excel/notebooks/dax.ipynb"> DAX </a> •  <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/sql/notebooks/sql-access.ipynb"> SQL-Access </a> • <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/excel/notebooks/formulas.ipynb"> Excel-Formulas </a> •  <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/sql/notebooks/sql-sqlite.ipynb"> SQLite </a> • <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/vba/notebook/vba-access.ipynb"> VBA-Access </a>  • <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/python/notebooks/python.ipynb"> Python </a> • <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/html/html-tutorial.ipynb"> HTML5 </a>  •  <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/vba/notebook/vba-tutorial.ipynb"> VBA-Excel </a>  •  <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/css/css-tutorial.ipynb"> CSS3 </a> • <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/python/notebooks/pbi.ipynb"> Power-BI </a>
+  </p>
 <div>
 <h2> Data Analytics Integration & Modernization </h2>
 </div>
   <p>
     An educational repository supporting the Federal Data Analytics Integration & Modernization initiatives. It consolidates four core learning domains — Excel, SQL, VBA, and Python — into a unified framework that builds technical fluency from tactical spreadsheet analytics to enterprise-scale data science
-  </p>
-  <p>
-    •  <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/excel/notebooks/dax.ipynb"> DAX </a> •  <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/sql/notebooks/sql-access.ipynb"> SQL-Access </a> • <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/excel/notebooks/formulas.ipynb"> Excel-Formulas </a> •  <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/sql/notebooks/sql-sqlite.ipynb"> SQLite </a> • <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/vba/notebook/vba-access.ipynb"> VBA-Access </a>  • <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/python/notebooks/python.ipynb"> Python </a> • <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/html/html-tutorial.ipynb"> HTML5 </a>  •  <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/vba/notebook/vba-tutorial.ipynb"> VBA-Excel </a>  •  <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/css/css-tutorial.ipynb"> CSS3 </a> • <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/python/notebooks/pbi.ipynb"> Power-BI </a>
   </p>
 </div>
 
