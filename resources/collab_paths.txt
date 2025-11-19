@@ -1,0 +1,26 @@
+EXCEL FORMULAS:
+https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/excel/notebooks/excel-formulas.ipynb
+
+SQL Access:
+https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/sql/notebooks/sql-access.ipynb
+
+SQLite:
+https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/sql/notebooks/sql-sqlite.ipynb
+
+DAX:
+https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/excel/notebooks/dax.ipynb
+
+HTML5:
+https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/html/html-tutorial.ipynb
+
+CSS3:
+https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/css/css-tutorial.ipynb
+
+PBI:
+https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/python/notebooks/pbi.ipynb
+
+VBA Access:
+https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/vba/notebook/vba-access.ipynb
+
+VBA Excel:
+https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/vba/notebook/vba-tutorial.ipynb

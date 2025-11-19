@@ -416,10 +416,10 @@ End Sub
 
 '----------------------------------------------------------------------------------
 '   Type:        Event Sub-Procedure
-'   Name:        Process
-'   Parameters:  Void
+'   Name:        ProcessError
+'   Parameters:  String Name, String Member
 '   Retval:      Void
-'   Purpose:
+'   Purpose:	 Function to handle errors
 '---------------------------------------------------------------------------------
 Private Sub ProcessError(Optional Name As String, Optional Member As String)
     If Err.Number <> 0 And _
