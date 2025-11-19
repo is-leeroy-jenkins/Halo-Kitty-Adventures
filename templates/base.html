@@ -6,13 +6,13 @@
     <title>{{ page_title }} | US Army</title>
     <meta
       name="description"
-      content="Portfolio of Terry Eppler, Sr Data Scientist"/>
+      content="A toolkit for data analytics integration"/>
     <meta
       property="og:title"
-      content="Terry Eppler | Data Science Portfolio"/>
+      content="Arsenal | Data Analyst Toolkit"/>
     <meta
       property="og:description"
-      content="Portfolio showcasing projects, skills, and blogs by Terry"/>
+      content="A toolkit for data analytics learning and integration"/>
     <meta
       property="og:image"
       content="{{ url_for('static', filename='images/og-image.jpg') }}" />
@@ -29,8 +29,7 @@
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
     <!-- AOS CSS -->
     <link
-      href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css"
-      rel="stylesheet"/>
+      href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" rel="stylesheet"/>
     <!-- Custom CSS -->
     <link
       rel="stylesheet"
@@ -40,7 +39,7 @@
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light shadow fixed-top">
       <div class="container">
-        <a class="navbar-brand fw-bold" href="{{ url_for('home') }}">Terry Eppler</a>
+        <a class="navbar-brand fw-bold" href="{{ url_for('home') }}">Arsenal</a>
         <button
           class="navbar-toggler"
           type="button"
@@ -64,16 +63,16 @@
             <li class="nav-item">
               <a class="nav-link"
                 href="#projects"
-                onclick="showSection('projects')">Modules</a>
+                onclick="showSection('projects')">Tools</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#skills" onclick="showSection('skills')">Technology</a>
+              <a class="nav-link" href="#skills" onclick="showSection('skills')">Stack</a>
             </li>
             <li class="nav-item">
               <a
                 class="nav-link"
                 href="#education"
-                onclick="showSection('education')">Education </a>
+                onclick="showSection('education')">Tab 1 </a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="{{ url_for('blogs') }}">Blogs</a>
@@ -92,7 +91,7 @@
                   id="darkModeToggle"
                   aria-label="Dark mode toggle"/>
                 <label class="form-check-label" for="darkModeToggle">
-                  <i class="fas fa-moon">Dark Mode</i>
+                  <i class="fas fa-moon">Stealth Mode</i>
                 </label>
               </div>
             </li>
