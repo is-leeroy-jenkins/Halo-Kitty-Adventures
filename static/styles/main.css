@@ -14,10 +14,10 @@ body, html
 {
 	/* Light mode colors */
 	--bg-color         : #D0CECE;
-	--text-color       : #141414;
-	--primary-color    : #0078FC;
-	--secondary-color  : #0078FC;
-	--gradient-primary : linear-gradient(90deg, #0078D4 40%, #0078FC 100%);
+	--text-color       : #000000;
+	--primary-color    : #005288;
+	--secondary-color  : #FFCC01;
+	--gradient-primary : linear-gradient(90deg, #BFB8A6 40%, #005288 100%);
 	--btn-bg-hover     : var(--gradient-primary);
 	--btn-border-color : var(--primary-color);
 }
@@ -25,11 +25,11 @@ body, html
 /* Dark mode variables */
 body.dark-mode
 {
-	--bg-color         : #141414;
+	--bg-color         : #221F20;
 	--text-color       : #F6F4F4;
-	--primary-color    : #0078FC;
-	--secondary-color  : #0078FC;
-	--gradient-primary : linear-gradient(90deg, #0078FC 40%, #0078D4 100%);
+	--primary-color    : #005288;
+	--secondary-color  : #FFCC01;
+	--gradient-primary : linear-gradient(90deg, #BFB8A6 40%, #0078D4 100%);
 	--btn-bg-hover     : var(--gradient-primary);
 	--btn-border-color : var(--primary-color);
 }
@@ -59,7 +59,7 @@ a:hover
 {
 	position        : absolute;
 	inset           : 0;
-	background      : linear-gradient( rgba(246, 243, 243, 0.7), rgb(0, 0, 0)), url('../images/sj.gif') no-repeat center center;
+	background      : linear-gradient( rgba(246, 243, 243, 0.7), rgb(0, 0, 0)), url('../images/visualization.gif') no-repeat center center;
 	background-size : cover;
 	z-index         : 1;
 }

@@ -30,7 +30,7 @@ toggle.addEventListener('change', () => {
 });
 
 // Typed.js animation for hero subtext
-const roles = ['Data Science', 'Machine Learning', 'Data Analytics', 'Data Visualization', 'Predictive Analytics', 'AI Integration'];
+const roles = ['Data Science', 'Machine & Deep Learning', 'Data Analysis', 'Data Visualization', 'Predictive Analytics', 'AI Integration'];
 let typedIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
