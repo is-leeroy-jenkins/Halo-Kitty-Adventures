@@ -8,6 +8,9 @@ This repo is designed as both:
 
 It covers fundamental formula mechanics, core function families, modern **dynamic arrays**, and **LAMBDA** patterns, all with Excel-ready examples.
 
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/excel/notebooks/formulas/excel-formulas.ipynb" target="_parent">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 ---
 
 ## 📂 Repository Structure

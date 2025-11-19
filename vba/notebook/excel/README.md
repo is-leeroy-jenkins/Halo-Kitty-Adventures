@@ -5,6 +5,9 @@
 This guide provides a complete, hands-on introduction to **Visual Basic for Applications (VBA)** within **Microsoft Excel**.
 It is designed for both analysts and developers who want to automate Excel workflows, build custom forms, and design full-scale spreadsheet applications.
 
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/vba/notebook/excel/vba-tutorial.ipynb" target="_parent">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 ---
 
 ## 🧩 Introduction to Excel VBA

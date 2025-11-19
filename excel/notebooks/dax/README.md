@@ -4,6 +4,9 @@
 A practical, Power BI–ready, icon-rich guide to mastering Data Analysis Expressions
 for Power BI, Analysis Services, and Excel Power Pivot.
 
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/excel/notebooks/dax/dax.ipynb" target="_parent">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 ---
 
 ## 🐱 Overview

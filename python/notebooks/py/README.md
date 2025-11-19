@@ -3,12 +3,16 @@
 
 ## 🧭 An introduction
 
-Python is a **high-level, interpreted programming language** emphasizing readability, explicit syntax, and clarity of intent. Designed by **Guido van Rossum** in 1991, it has evolved into one of the most widely used languages in computing, powering fields from web development and automation to machine learning, finance, and scientific research.
 
-Python’s design philosophy is articulated in *The Zen of Python* (`import this`), which includes such principles as *“Explicit is better than implicit”* and *“Simple is better than complex.”*
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/python/notebooks/py/python.ipynb" target="_parent">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Python is **strongly typed** (types are not silently coerced) and **dynamically typed** (type checks occur at runtime).
-This provides flexibility without sacrificing correctness, provided that disciplined type hinting and explicit conversions are applied.
+- Python is a **high-level, interpreted programming language** emphasizing readability, explicit syntax, and clarity of intent. Designed by **Guido van Rossum** in 1991, it has evolved into one of the most widely used languages in computing, powering fields from web development and automation to machine learning, finance, and scientific research.
+
+- Python’s design philosophy is articulated in *The Zen of Python* (`import this`), which includes such principles as *“Explicit is better than implicit”* and *“Simple is better than complex.”*
+
+- Python is **strongly typed** (types are not silently coerced) and **dynamically typed** (type checks occur at runtime).
+
 
 ```python
 x = 10
@@ -16,7 +20,8 @@ y = "5"
 print(x + int(y))  # Explicit coercion is required
 ```
 
-> 🧩 **Explanation:**
+#### 🧩 Explanation:
+
 > Python enforces explicit type conversions. Attempting `x + y` would raise a `TypeError`.
 > The interpreter’s behavior aligns with the principle of *explicitness over convenience*.
 

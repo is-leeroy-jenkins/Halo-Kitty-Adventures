@@ -1,7 +1,10 @@
-# 🧠 Power BI + Python Integration Tutorial
+# 🧠 Power BI + Python Integration 
 
 A complete, self-contained tutorial demonstrating how to use **Python** within **Microsoft Power BI** for data transformation, analytics, machine learning, and custom visualizations.
 It also includes examples of Power BI Desktop automation and environment configuration.
+
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/python/notebooks/pbi/pbi.ipynb" target="_parent">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ---
 

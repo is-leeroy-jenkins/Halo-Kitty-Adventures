@@ -4,6 +4,9 @@
 
 A structured, notebook-ready guide to CSS3, covering selectors, text styling, layout, Flexbox, Grid, media queries, animations, at-rules, and more.
 
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/css/notebooks/css-tutorial.ipynb" target="_parent">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 ---
 
 ## 🧱 1. CSS Basics & Root Styles
