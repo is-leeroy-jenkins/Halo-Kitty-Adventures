@@ -82,25 +82,34 @@
       <button class="btn btn-outline-primary me-2 filter-btn" data-filter="python">
         Python
       </button>
-      <button class="btn btn-outline-primary me-2 filter-btn" data-filter="vba excel">
-        VBA
+      <button class="btn btn-outline-primary me-2 filter-btn" data-filter="sql">
+        SQL Access
       </button>
-      <button class="btn btn-outline-primary me-2 filter-btn" data-filter="sql access">
-        SQL
+      <button class="btn btn-outline-primary me-2 filter-btn" data-filter="vba">
+        Excel VBA
       </button>
-      <button class="btn btn-outline-primary me-2 filter-btn" data-filter="html5">
+      <button class="btn btn-outline-primary me-2 filter-btn" data-filter="sql">
+        SQLite
+      </button>
+      <button class="btn btn-outline-primary me-2 filter-btn" data-filter="vba">
+        Access VBA
+      </button>
+      <button class="btn btn-outline-primary me-2 filter-btn" data-filter="web">
         HTML5
       </button>
-      <button class="btn btn-outline-primary filter-btn" data-filter="pbi">
+      <button class="btn btn-outline-primary filter-btn" data-filter="python">
         Power BI
       </button>
-      <button class="btn btn-outline-primary filter-btn" data-filter="excel formulas">
+      <button class="btn btn-outline-primary filter-btn" data-filter="web">
+        JavaScript
+      </button>
+      <button class="btn btn-outline-primary filter-btn" data-filter="dax">
         Excel Formulas
       </button>
       <button class="btn btn-outline-primary filter-btn" data-filter="dax">
         DAX
       </button>
-      <button class="btn btn-outline-primary filter-btn" data-filter="dax">
+      <button class="btn btn-outline-primary filter-btn" data-filter="web">
         CSS3
       </button>
     </div>
@@ -208,7 +217,7 @@
                 as a C library that is widely used in many applications because it is easy
                 to use and does not require a separate server.
               </p>
-              <a href="https://github.com/is-leeroy-jenkins/Booger?tab=readme-ov-file#booger" target="_blank"
+              <a href="https://github.com/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/sql/notebooks/sqlite/README.md" target="_blank"
                  class="text-white">
                 <i class="fab fa-github fa-2x text-white"></i>
                 <p>Click here</p>
@@ -217,19 +226,19 @@
           </div>
         </div>
       </div>
-      <div class="col-sm-6 col-md-4 project-card" data-category="database">
+      <div class="col-sm-6 col-md-4 project-card" data-category="web">
         <div class="card project-box shadow position-relative h-100">
           <div class="project-img img-box">
             <!-- Add relevant image from /static/images/ here -->
-            <img src="{{ url_for('static', filename='images/Pogi.png') }}" alt="Project 5"
+            <img src="{{ url_for('static', filename='images/html5.png') }}" alt="Project 5"
                  class="card-img-top"/>
             <div class="project-overlay d-flex flex-column justify-content-center align-items-center">
-              <h5 class="text-white">Pogi</h5>
+              <h5 class="text-white">HTML-5</h5>
               <p class="small text-white mb-2 px-2">
-                A Generative AI & Machine-Learning pipeline for forecasting federal balances
-                at the Treasury Appropriation Fund Symbol (TAFS) level.
+                HTML5 is the latest major version of the Hypertext Markup Language (HTML),
+                the core code used to structure and present content on the World Wide Web.
               </p>
-              <a href="https://github.com/is-leeroy-jenkins/Pogi?tab=readme-ov-file#pogi" target="_blank"
+              <a href="https://github.com/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/html/notebooks/README.md" target="_blank"
                  class="text-white">
                 <i class="fab fa-github fa-2x text-white"></i>
                 <p>Click here</p>
@@ -246,18 +255,15 @@
 	<!-- Skills Section -->
 	<section id="skills" class="skills-section py-5" data-aos="fade-up">
   <div class="container">
-    <h2 class="fw-bold text-center mb-4">Skills</h2>
+    <h2 class="fw-bold text-center mb-4">Data Stack</h2>
     <div class="row gy-4 justify-content-center">
       <!-- Each Skill Item -->
-      {% set skills = [ ('fab fa-html5', 'HTML/CSS'), ('fab fa-css3-alt', 'C, C++, C#'),
-      ('fab fa-js', 'JavaScript'), ('fab fa-python', 'Python'), ('fas
-      fa-database', 'SQL'), ('fas fa-database', 'MySQL'), ('fas fa-database',
-      'SQLite'), ('fas fa-leaf', 'MongoDB'), ('fas fa-fire', 'Firebase'), ('fab
-      fa-bootstrap', 'Bootstrap'), ('fab fa-aws', 'AWS'), ('fab fa-github',
-      'GitHub'), ('fab fa-git-alt', 'Git'), ('fab fa-flask', '.NET'), ('fas
-      fa-fire-alt', 'WASM'), ('fab fa-google', 'PowerBI'), ('fab fa-android',
-      'QLik'), ('fas fa-paint-brush', 'Canva') ] %} {% for icon, label in
-      skills %}
+      {% set skills = [ ('fab fa-html5', 'HTML'), ('fab fa-css3-alt', 'CSS'),
+      ('fab fa-js', 'JavaScript'), ('fab fa-python', 'Python'), ('fas fa-database', 'SQL'),
+      ('fas fa-database', 'Access'), ('fas fa-database', 'SQLite'),
+      ('fas fa-leaf', 'DAX'), ('fas fa-fire', 'VBA'), ('fab fa-bootstrap', 'Excel'),
+      ('fab fa-aws', 'PowerBI'), ('fab fa-github', 'GitHub'),
+      ('fab fa-flask', '.NET'), ] %} {% for icon, label in skills %}
 	    <div class="col-6 col-sm-4 col-md-3 col-lg-2 d-flex flex-column align-items-center">
         <div class="skill-icon-box mb-2">
           <i class="{{ icon }}"></i>
@@ -391,7 +397,7 @@
 	<!-- Contact Section -->
 	<section id="contact" class="contact-section py-5" data-aos="fade-up">
   <div class="container">
-    <h2 class="fw-bold text-center mb-4">Contact Me</h2>
+    <h2 class="fw-bold text-center mb-4">Contact</h2>
     <div class="row justify-content-center">
       <div class="col-lg-6">
         <form id="contactForm" action="{{ url_for('contact') }}" method="POST" novalidate>
