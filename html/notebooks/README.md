@@ -1,4 +1,5 @@
-
+###### HTML
+![](https://github.com/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/static/images/html5.png)
 # 🏗️ HTML5 
 
 A structured, notebook-ready introduction to HTML5, covering document structure, elements by category, semantics, media, forms, tables, and interactive components.

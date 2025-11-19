@@ -2,6 +2,9 @@
 
 *A Comprehensive Guide for Learners and Developers*
 
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/sql/notebooks/sqlite/sql-sqlite.ipynb" target="_parent">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 ---
 
 ## 📘 Overview
