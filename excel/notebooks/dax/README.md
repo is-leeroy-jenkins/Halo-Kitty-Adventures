@@ -1,4 +1,5 @@
-
+###### dax
+![](https://github.com/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/static/images/dax.png)
 # 📘 Comprehensive DAX Tutorial
 
 A practical, Power BI–ready, icon-rich guide to mastering Data Analysis Expressions

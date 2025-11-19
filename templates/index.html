@@ -88,6 +88,9 @@
       <button class="btn btn-outline-primary me-2 filter-btn" data-filter="vba">
         Excel VBA
       </button>
+      <button class="btn btn-outline-primary me-2 filter-btn" data-filter="python">
+        Pandas
+      </button>
       <button class="btn btn-outline-primary me-2 filter-btn" data-filter="sql">
         SQLite
       </button>
@@ -204,6 +207,28 @@
           </div>
         </div>
       </div>
+      <!-- Pandas Project Card -->
+      <div class="col-sm-6 col-md-4 project-card" data-category="python">
+        <div class="card project-box shadow position-relative h-100">
+          <div class="project-img img-box">
+            <!-- Add relevant image from /static/images/ here -->
+            <img src="{{ url_for('static', filename='images/python-pandas.png') }}" alt="Pandas"
+                 class="card-img-top"/>
+            <div class="project-overlay d-flex flex-column justify-content-center align-items-center">
+              <h5 class="text-white">Pandas</h5>
+              <p class="small text-white mb-2 px-2">
+                Pandas is an open-source Python library widely used for data analysis and manipulation.
+                It provides powerful and flexible data structures designed to make working
+                with tabular and time-series data both easy and efficient.
+              </p>
+              <a href="https://github.com/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/python/notebooks/py/README.md"
+                 target="_blank" class="text-white">
+                <i class="fab fa-github fa-2x text-white"></i>
+                <p>Click here</p>
+              </a>
+            </div>
+          </div>
+        </div>
       <div class="col-sm-6 col-md-4 project-card" data-category="sql">
         <div class="card project-box shadow position-relative h-100">
           <div class="project-img img-box">
@@ -246,12 +271,32 @@
             </div>
           </div>
         </div>
-      </div>
+      </div><!-- JavaScript Project Card -->
+      <div class="col-sm-6 col-md-4 project-card" data-category="web">
+        <div class="card project-box shadow position-relative h-100">
+          <div class="project-img img-box">
+            <!-- Add relevant image from /static/images/ here -->
+            <img src="{{ url_for('static', filename='images/javascript.png') }}" alt="JavaScript"
+                 class="card-img-top"/>
+            <div class="project-overlay d-flex flex-column justify-content-center align-items-center">
+              <h5 class="text-white">JavaScript</h5>
+              <p class="small text-white mb-2 px-2">
+                JavaScript is a high-level, multi-paradigm programming language that
+                conforms to the ECMAScript standard. It is primarily known as the scripting
+                language for web pages, enabling dynamic and interactive content.
+              </p>
+              <a href="https://github.com/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/python/notebooks/py/README.md"
+                 target="_blank" class="text-white">
+                <i class="fab fa-github fa-2x text-white"></i>
+                <p>Click here</p>
+              </a>
+            </div>
+          </div>
+        </div>
       <!-- Repeat cards for more projects, update data-category and image files -->
     </div>
   </div>
 </section>
-
 	<!-- Skills Section -->
 	<section id="skills" class="skills-section py-5" data-aos="fade-up">
   <div class="container">

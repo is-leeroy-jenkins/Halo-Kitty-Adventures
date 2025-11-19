@@ -1,3 +1,5 @@
+###### pbi
+![](https://github.com/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/static/images/python_pbi.png)
 # 🧠 Power BI + Python Integration 
 
 A complete, self-contained tutorial demonstrating how to use **Python** within **Microsoft Power BI** for data transformation, analytics, machine learning, and custom visualizations.

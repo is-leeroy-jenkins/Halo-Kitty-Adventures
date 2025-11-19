@@ -1,3 +1,6 @@
+###### excel-functions
+![](https://github.com/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/static/images/excel-functions.png)
+
 # 📘 Excel Formulas and Functions Tutorial (Excel 365 / 2021)
 
 An end-to-end reference guide and tutorial for **Excel formulas and functions** targeting **Excel 365 / 2021**.
