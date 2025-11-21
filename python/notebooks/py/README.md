@@ -1,5 +1,5 @@
 ###### py
-![](https://github.com/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/static/images/python.png)
+[](https://github.com/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/static/images/python.png)
 # 🐍 Python
 
 ## 🧭 An introduction
