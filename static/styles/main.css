@@ -3,7 +3,7 @@ body, html
 {
 	margin           : 0;
 	padding          : 0;
-	font-family      : -apple-system, BlinkMacSystemFont, 'Roboto', Segoe UI, Oxygen,
+	font-family      : -apple-system, BlinkMacSystemFont, 'G.I.', Roboto, Segoe UI,
 	Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 	background-color : var(--bg-color);
 	color            : var(--text-color);
@@ -13,11 +13,11 @@ body, html
 :root
 {
 	/* Light mode colors */
-	--bg-color         : #D0CECE;
+	--bg-color         : #F1E4C7;
 	--text-color       : #000000;
-	--primary-color    : #0078D4;
-	--secondary-color  : #FFCC01;
-	--gradient-primary : linear-gradient(90deg, #FFCC01 40%, #0078D4 100%);
+	--primary-color    : #FFCC01;
+	--secondary-color  : #D5D5D7;
+	--gradient-primary : linear-gradient(90deg, #F1E4C7 40%, #FFCC01 100%);
 	--btn-bg-hover     : var(--gradient-primary);
 	--btn-border-color : var(--primary-color);
 }
@@ -28,8 +28,8 @@ body.dark-mode
 	--bg-color         : #141414;
 	--text-color       : #F6F4F4;
 	--primary-color    : #FFCC01;
-	--secondary-color  : #0078D4;
-	--gradient-primary : linear-gradient(90deg, #0078D4 40%, #FFCC01 100%);
+	--secondary-color  : #565557;
+	--gradient-primary : linear-gradient(90deg, #565557 40%, #FFCC01 100%);
 	--btn-bg-hover     : var(--gradient-primary);
 	--btn-border-color : var(--primary-color);
 }
@@ -150,7 +150,7 @@ body.dark-mode .navbar,
 body.dark-mode .navbar-brand,
 body.dark-mode .navbar .nav-link
 {
-	color            : #FCFCFC !important; /* Light text color for visibility */
+	color            : #FFCC01 !important; /* Light text color for visibility */
 	background-color : #2D2D2D !important;
 }
 

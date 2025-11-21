@@ -1,15 +1,15 @@
 EXCEL FORMULAS:
-<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/excel/notebooks/formulas/excel-formulas.ipynb" target="_parent">
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armory/blob/main/excel/notebooks/formulas/excel-formulas.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 SQL Access:
-<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/sql/notebooks/access/sql-access.ipynb" target="_parent">
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armorys/blob/main/sql/notebooks/access/sql-access.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 SQLite:
-<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/sql/notebooks/sqlite/sql-sqlite.ipynb" target="_parent">
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armory/blob/main/sql/notebooks/sqlite/sql-sqlite.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
@@ -18,32 +18,56 @@ DAX:
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 Python:
-<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/python/notebooks/py/python.ipynb" target="_parent">
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armory/blob/main/python/notebooks/py/python.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 HTML5:
-<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/html/notebooks/html-tutorial.ipynb" target="_parent">
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armory/blob/main/html/notebooks/html-tutorial.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 CSS3:
-<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/css/notebooks/css-tutorial.ipynb" target="_parent">
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armory/blob/main/css/notebooks/css-tutorial.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 
 PBI:
-<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/python/notebooks/pbi/pbi.ipynb" target="_parent">
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armory/blob/main/python/notebooks/pbi/pbi.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 VBA Access:
-<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/vba/notebook/access/vba-access.ipynb" target="_parent">
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armory/blob/main/vba/notebook/access/vba-access.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 VBA Excel:
-<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/vba/notebook/excel/vba-tutorial.ipynb" target="_parent">
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armory/blob/main/vba/notebook/excel/vba-tutorial.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+
+Pandas:
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armory/blob/main/python/notebooks/pandas/pandas.ipynb" target="_parent">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
+Javascript:
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armory/blob/main/javascript/notebook/javascript.ipynb" target="_parent">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
+Matplot:
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armory/blob/main/python/notebooks/matplot/matplotlib.ipynb" target="_parent">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
+Numpy:
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armory/blob/main/python/notebooks/numpy/numpy.ipynb" target="_parent">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
+SQL Server:
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armory/blob/main/sql/notebooks/sqlserver/sql_server.ipynb" target="_parent">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>

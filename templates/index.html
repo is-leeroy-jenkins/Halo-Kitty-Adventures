@@ -179,7 +179,7 @@
         <div class="card project-box shadow position-relative h-100">
           <div class="project-img img-box">
             <!-- Add relevant image from /static/images/ here -->
-            <img src="{{ url_for('static', filename='images/sql-sqlite.png') }}" alt="Project 5"
+            <img src="{{ url_for('static', filename='images/sql-sqlite.png') }}" alt="SQLite"
                  class="card-img-top"/>
             <div class="project-overlay d-flex flex-column justify-content-center align-items-center">
               <h5 class="text-white">SQLite</h5>
@@ -208,7 +208,7 @@
                 Cascading Style Sheets language adds features, transformations,
                 and animations to create more dynamic data visualizations.
               </p>
-              <a href="https://github.com/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/html/notebooks/README.md"
+              <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armory/blob/main/css/notebooks/css-tutorial.ipynb"
                  target="_blank" class="text-white">
                 <i class="fab fa-github fa-2x text-white"></i>
                 <p>Click here</p>
@@ -230,7 +230,7 @@
                 JavaScript is a high-level, multi-paradigm programming language that
                 conforms to the ECMAScript standard.
               </p>
-              <a href="https://github.com/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/python/notebooks/py/README.md"
+              <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armory/blob/main/javascript/notebook/javascript.ipynb"
                  target="_blank" class="text-white">
                 <i class="fab fa-github fa-2x text-white"></i>
                 <p>Click here</p>
@@ -251,7 +251,7 @@
               <p class="small text-white mb-2 px-2">
                 Pandas is an open-source Python library widely used for data analysis and manipulation.
               </p>
-              <a href="https://github.com/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/python/notebooks/py/README.md"
+              <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armory/blob/main/python/notebooks/pandas/pandas.ipynb"
                  target="_blank" class="text-white">
                 <i class="fab fa-github fa-2x text-white"></i>
                 <p>Click here</p>
@@ -308,7 +308,7 @@
     <div class="card project-box shadow position-relative h-100">
       <div class="project-img img-box">
         <!-- Add relevant image from /static/images/ here -->
-        <img src="{{ url_for('static', filename='images/excel-functions.png') }}" alt="Power BI"
+        <img src="{{ url_for('static', filename='images/excel-functions.png') }}" alt="Excel Formulas"
              class="card-img-top"/>
         <div class="project-overlay d-flex flex-column justify-content-center align-items-center">
           <h5 class="text-white">Excel Formulas</h5>
@@ -360,7 +360,7 @@
             providing a powerful N-dimensional array object (ndarray) and a wide collection of
             high-level mathematical functions for fast operations on these arrays.
           </p>
-          <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/vba/notebook/access/vba-access.ipynb"
+          <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armory/blob/main/python/notebooks/numpy/numpy.ipynb"
              target="_blank" class="text-white">
             <i class="fab fa-github fa-2x text-white"></i>
             <p>Click here</p>
@@ -381,7 +381,7 @@
           <p class="small text-white mb-2 px-2">
             Matplot is an open-source Python library fundamental for data visualization and analysis.
           </p>
-          <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/vba/notebook/access/vba-access.ipynb"
+          <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armory/blob/main/python/notebooks/matplot/matplotlib.ipynb"
              target="_blank" class="text-white">
             <i class="fab fa-github fa-2x text-white"></i>
             <p>Click here</p>
@@ -403,7 +403,7 @@
             SQL Server is a relational database management system (RDBMS) developed by Microsoft
             that stores and retrieves data for other applications using Transact-SQL (T-SQL).
           </p>
-          <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/vba/notebook/access/vba-access.ipynb"
+          <a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armory/blob/main/sql/notebooks/sqlserver/sql_server.ipynb"
              target="_blank" class="text-white">
             <i class="fab fa-github fa-2x text-white"></i>
             <p>Click here</p>
@@ -413,31 +413,8 @@
     </div>
   </div>
 </section>
-<!-- Skills Section -->
-<section id="skills" class="skills-section py-5" data-aos="fade-up">
-  <div class="container">
-    <h2 class="fw-bold text-center mb-4">Stack</h2>
-    <div class="row gy-4 justify-content-center">
-      <!-- Each Skill Item -->
-      {% set skills = [ ('fab fa-html5', 'HTML'), ('fab fa-css3-alt', 'CSS'),
-      ('fab fa-js', 'JavaScript'), ('fab fa-python', 'Python'), ('fas fa-database', 'SQL'),
-      ('fas fa-database', 'Access'), ('fas fa-database', 'SQLite'),
-      ('fas fa-leaf', 'DAX'), ('fas fa-fire', 'VBA'), ('fab fa-excel', 'Excel'),
-      ('fab fa-aws', 'PowerBI'), ('fab fa-github', 'GitHub'),
-      ('fab fa-flask', '.NET'), ] %} {% for icon, label in skills %}
-	    <div class="col-6 col-sm-4 col-md-3 col-lg-2 d-flex flex-column align-items-center">
-        <div class="skill-icon-box mb-2">
-          <i class="{{ icon }}"></i>
-        </div>
-        <span class="fw-semibold skill-label">{{ label }}</span>
-      </div>
-    {% endfor %}
-    </div>
-  </div>
-</section>
-
-	<!-- Education & Certification Section -->
-	<section id="education" class="edu-section py-5" data-aos="fade-up">
+<!-- Education & Certification Section -->
+<section id="education" class="edu-section py-5" data-aos="fade-up">
   <div class="container">
     <h2 class="fw-bold text-center mb-4">Resources</h2>
 
@@ -446,7 +423,7 @@
         Sites
       </button>
       <button class="btn tab-btn" type="button" id="certTab">
-        Documentation
+        Books
       </button>
     </div>
 
