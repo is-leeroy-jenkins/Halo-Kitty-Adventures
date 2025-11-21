@@ -25,6 +25,9 @@
 - [CSS3](#-css3--designing-with-purpose)
 - [Power BI](#-power-bi--modern-visual-analytics)
 - [DAX](#-dax--advanced-calculation-logic)
+- [Numpy](#-numpy--numerical-computing-foundations)
+- [Matplotlib](#-matplotlib--data-visualization-for-analysts)
+- [SQL Server](#-sql-server--enterprise-grade-data-management)
 
 
 
@@ -318,6 +321,65 @@ Halo-Kitty-Adventures/
 * `DAX_Fundamentals.ipynb` — Core concepts, context evaluation, and basic measures
 * `DAX_Time_Intelligence.ipynb` — Fiscal year modeling, rolling periods, readiness metrics
 * `DAX_Advanced_Patterns.ipynb` — Budget execution KPIs, cumulative totals, operational ratios
+
+
+## 🔢 Numpy — *Numerical Computing Foundations*
+
+> Foundation for fast, efficient numerical computing and scientific workflows in Python.
+
+**Core Topics**
+
+* Array creation, reshaping, and broadcasting
+* Mathematical operations on vectors/matrices
+* Boolean masking and indexing
+* Vectorized data pipelines for ML & stats
+
+**Example:** Rapidly compute aggregate operational ratios over thousands of records with a single vectorized operation.
+
+---
+
+## 📈 Matplotlib — *Data Visualization for Analysts*
+
+> Generate publication-quality charts and visualizations directly from Python data pipelines.
+
+**Core Topics**
+
+* Plot types: line, bar, scatter, histograms
+* Figure layout, annotations, and styling
+* Exporting charts (SVG, PNG, PDF)
+* Themes, colors, multi-subplot workflows
+
+**Example:** Create a multi-panel chart showing execution trends across four fiscal years.
+
+---
+
+## 🗄 SQL Server — *Enterprise-Grade Data Management*
+
+> Use T-SQL to build robust, scalable, auditable data queries for large-scale operations.
+
+**Core Topics**
+
+* Table design, normalization, constraints
+* Advanced joins, CTEs, and window functions
+* Stored procedures, functions, triggers
+* Query tuning and indexing for performance
+
+**Example:** Query budget obligations by program element, summarize with window functions, export to Power BI.
+
+---
+
+## 📜 JavaScript — *Web Interactivity & Scripting*
+
+> Add logic, interactivity, and real-time updates to HTML5 analytics dashboards.
+
+**Core Topics**
+
+* DOM selection and manipulation
+* Event handling (click, key, mouse)
+* Fetching live data (APIs, JSON)
+* Functions, ES6 features, browser console
+
+**Example:** Auto-refresh KPIs on a web dashboard from a live data API every 15 seconds.
 
 
 
