@@ -92,7 +92,7 @@ Halo-Kitty-Adventures/
 
 ##  🧮 Excel Formulas — *"The Foundation"*
 
-<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/excel/notebooks/formulas/excel-formulas.ipynb" target="_parent">
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armory/blob/main/excel/notebooks/formulas/excel-formulas.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 - Every data workflow begins in Excel — transforming raw numbers into insight.
@@ -115,7 +115,7 @@ Halo-Kitty-Adventures/
 
 ##  🧾 SQL (Access) — *Desktop Relational Data Management*
 
-<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/sql/notebooks/access/sql-access.ipynb" target="_parent">
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armorys/blob/main/sql/notebooks/access/sql-access.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 - Automate daily readiness metrics using dynamic array formulas that update automatically as new data arrives.
@@ -134,7 +134,7 @@ Halo-Kitty-Adventures/
 
 ##  🧾 SQL (SQLite) — *Portable, Modern Data Engine*
 
-<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/sql/notebooks/sqlite/sql-sqlite.ipynb" target="_parent">
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armory/blob/main/sql/notebooks/sqlite/sql-sqlite.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
@@ -155,7 +155,7 @@ Halo-Kitty-Adventures/
 
 ##  ⚙️ VBA (Excel) — *Excel Macro Automation*
 
-<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/vba/notebook/excel/vba-tutorial.ipynb" target="_parent">
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armory/blob/main/vba/notebook/excel/vba-tutorial.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
@@ -177,7 +177,7 @@ Halo-Kitty-Adventures/
 
 ##  ⚙️ VBA (Access) — *Database Automation*
 
-<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/vba/notebook/access/vba-access.ipynb" target="_parent">
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armory/blob/main/vba/notebook/access/vba-access.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
@@ -199,9 +199,8 @@ Halo-Kitty-Adventures/
 
 ##  🐍 Python — *"Advanced Analytics"*
 
-<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/python/notebooks/py/python.ipynb" target="_parent">
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armory/blob/main/python/notebooks/py/python.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
 
 - Transition into enterprise-grade analytics and machine learning using modern open-source tooling.
 - Use Python ETL scripts to consolidate execution data, generate predictive models, and deploy dashboards.
@@ -221,7 +220,7 @@ Halo-Kitty-Adventures/
 
 ## 🌐 HTML5 — *Web Foundations for Analytics*
 
-<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/html/notebooks/html-tutorial.ipynb" target="_parent">
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armory/blob/main/html/notebooks/html-tutorial.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
@@ -245,7 +244,7 @@ Halo-Kitty-Adventures/
 
 ## 🎨 CSS3 — *Designing with Purpose*
 
-<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/css/notebooks/css-tutorial.ipynb" target="_parent">
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armory/blob/main/css/notebooks/css-tutorial.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 - Master layout and design for analytics dashboards and knowledge portals.
@@ -268,7 +267,7 @@ Halo-Kitty-Adventures/
 
 ## 📊 Power BI — *Modern Visual Analytics*
 
-<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Halo-Kitty-Adventures/blob/main/python/notebooks/pbi/pbi.ipynb" target="_parent">
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armory/blob/main/python/notebooks/pbi/pbi.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
@@ -325,7 +324,10 @@ Halo-Kitty-Adventures/
 
 ## 🔢 Numpy — *Numerical Computing Foundations*
 
-> Foundation for fast, efficient numerical computing and scientific workflows in Python.
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armory/blob/main/python/notebooks/numpy/numpy.ipynb" target="_parent">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+- Foundation for fast, efficient numerical computing and scientific workflows in Python.
 
 **Core Topics**
 
@@ -336,11 +338,14 @@ Halo-Kitty-Adventures/
 
 **Example:** Rapidly compute aggregate operational ratios over thousands of records with a single vectorized operation.
 
----
+
 
 ## 📈 Matplotlib — *Data Visualization for Analysts*
 
-> Generate publication-quality charts and visualizations directly from Python data pipelines.
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armory/blob/main/python/notebooks/matplot/matplotlib.ipynb" target="_parent">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+- Generate publication-quality charts and visualizations directly from Python data pipelines.
 
 **Core Topics**
 
@@ -351,11 +356,14 @@ Halo-Kitty-Adventures/
 
 **Example:** Create a multi-panel chart showing execution trends across four fiscal years.
 
----
+
 
 ## 🗄 SQL Server — *Enterprise-Grade Data Management*
 
-> Use T-SQL to build robust, scalable, auditable data queries for large-scale operations.
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armory/blob/main/sql/notebooks/sqlserver/sql_server.ipynb" target="_parent">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+- Use T-SQL to build robust, scalable, auditable data queries for large-scale operations.
 
 **Core Topics**
 
@@ -370,7 +378,10 @@ Halo-Kitty-Adventures/
 
 ## 📜 JavaScript — *Web Interactivity & Scripting*
 
-> Add logic, interactivity, and real-time updates to HTML5 analytics dashboards.
+<a href="https://colab.research.google.com/github/is-leeroy-jenkins/Armory/blob/main/javascript/notebook/javascript.ipynb" target="_parent">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+- Add logic, interactivity, and real-time updates to HTML5 analytics dashboards.
 
 **Core Topics**
 
